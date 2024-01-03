@@ -1,0 +1,10 @@
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\bin\Debug\Coffee machine.exe.config
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\bin\Debug\Coffee machine.exe
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\bin\Debug\Coffee machine.pdb
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\obj\Debug\Coffee machine.csproj.AssemblyReference.cache
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\obj\Debug\Coffee_machine.Form1.resources
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\obj\Debug\Coffee_machine.Properties.Resources.resources
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\obj\Debug\Coffee machine.csproj.GenerateResource.cache
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\obj\Debug\Coffee machine.csproj.CoreCompileInputs.cache
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\obj\Debug\Coffee machine.exe
+C:\Users\maste\Desktop\Lab4\Coffee machine\Coffee machine\obj\Debug\Coffee machine.pdb
